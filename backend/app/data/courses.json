@@ -1,0 +1,2197 @@
+[
+  {
+    "course_id": "html-css-basics-beg",
+    "title": "HTML & CSS Basics (Beginner)",
+    "skills": [
+      "html",
+      "css",
+      "responsive design"
+    ],
+    "difficulty": "beginner",
+    "duration_weeks": 3,
+    "prerequisites": [],
+    "outcomes": [
+      "Introductory understanding of html",
+      "Introductory understanding of css",
+      "Introductory understanding of responsive design"
+    ]
+  },
+  {
+    "course_id": "html-css-basics-int",
+    "title": "HTML & CSS Basics (Intermediate)",
+    "skills": [
+      "html",
+      "css",
+      "responsive design"
+    ],
+    "difficulty": "intermediate",
+    "duration_weeks": 3,
+    "prerequisites": [
+      "Basic knowledge of html",
+      "Basic knowledge of css",
+      "Basic knowledge of responsive design"
+    ],
+    "outcomes": [
+      "Hands-on practice with html",
+      "Hands-on practice with css",
+      "Hands-on practice with responsive design"
+    ]
+  },
+  {
+    "course_id": "html-css-basics-adv",
+    "title": "HTML & CSS Basics (Advanced)",
+    "skills": [
+      "html",
+      "css",
+      "responsive design"
+    ],
+    "difficulty": "advanced",
+    "duration_weeks": 4,
+    "prerequisites": [
+      "Intermediate proficiency in html",
+      "Intermediate proficiency in css",
+      "Intermediate proficiency in responsive design"
+    ],
+    "outcomes": [
+      "Specialized/production-grade expertise in html",
+      "Specialized/production-grade expertise in css",
+      "Specialized/production-grade expertise in responsive design"
+    ]
+  },
+  {
+    "course_id": "javascript-fundamentals-beg",
+    "title": "JavaScript Fundamentals (Beginner)",
+    "skills": [
+      "javascript",
+      "dom",
+      "events"
+    ],
+    "difficulty": "beginner",
+    "duration_weeks": 3,
+    "prerequisites": [],
+    "outcomes": [
+      "Introductory understanding of javascript",
+      "Introductory understanding of dom",
+      "Introductory understanding of events"
+    ]
+  },
+  {
+    "course_id": "javascript-fundamentals-int",
+    "title": "JavaScript Fundamentals (Intermediate)",
+    "skills": [
+      "javascript",
+      "dom",
+      "events"
+    ],
+    "difficulty": "intermediate",
+    "duration_weeks": 4,
+    "prerequisites": [
+      "Basic knowledge of javascript",
+      "Basic knowledge of dom",
+      "Basic knowledge of events"
+    ],
+    "outcomes": [
+      "Hands-on practice with javascript",
+      "Hands-on practice with dom",
+      "Hands-on practice with events"
+    ]
+  },
+  {
+    "course_id": "javascript-fundamentals-adv",
+    "title": "JavaScript Fundamentals (Advanced)",
+    "skills": [
+      "javascript",
+      "dom",
+      "events"
+    ],
+    "difficulty": "advanced",
+    "duration_weeks": 6,
+    "prerequisites": [
+      "Intermediate proficiency in javascript",
+      "Intermediate proficiency in dom",
+      "Intermediate proficiency in events"
+    ],
+    "outcomes": [
+      "Specialized/production-grade expertise in javascript",
+      "Specialized/production-grade expertise in dom",
+      "Specialized/production-grade expertise in events"
+    ]
+  },
+  {
+    "course_id": "react-basics-beg",
+    "title": "React Basics (Beginner)",
+    "skills": [
+      "react",
+      "jsx",
+      "state",
+      "props"
+    ],
+    "difficulty": "beginner",
+    "duration_weeks": 3,
+    "prerequisites": [],
+    "outcomes": [
+      "Introductory understanding of react",
+      "Introductory understanding of jsx",
+      "Introductory understanding of state",
+      "Introductory understanding of props"
+    ]
+  },
+  {
+    "course_id": "react-basics-int",
+    "title": "React Basics (Intermediate)",
+    "skills": [
+      "react",
+      "jsx",
+      "state",
+      "props"
+    ],
+    "difficulty": "intermediate",
+    "duration_weeks": 4,
+    "prerequisites": [
+      "Basic knowledge of react",
+      "Basic knowledge of jsx",
+      "Basic knowledge of state",
+      "Basic knowledge of props"
+    ],
+    "outcomes": [
+      "Hands-on practice with react",
+      "Hands-on practice with jsx",
+      "Hands-on practice with state",
+      "Hands-on practice with props"
+    ]
+  },
+  {
+    "course_id": "react-basics-adv",
+    "title": "React Basics (Advanced)",
+    "skills": [
+      "react",
+      "jsx",
+      "state",
+      "props"
+    ],
+    "difficulty": "advanced",
+    "duration_weeks": 6,
+    "prerequisites": [
+      "Intermediate proficiency in react",
+      "Intermediate proficiency in jsx",
+      "Intermediate proficiency in state",
+      "Intermediate proficiency in props"
+    ],
+    "outcomes": [
+      "Specialized/production-grade expertise in react",
+      "Specialized/production-grade expertise in jsx",
+      "Specialized/production-grade expertise in state",
+      "Specialized/production-grade expertise in props"
+    ]
+  },
+  {
+    "course_id": "react-advanced-beg",
+    "title": "Advanced React (Beginner)",
+    "skills": [
+      "react",
+      "hooks",
+      "context",
+      "performance"
+    ],
+    "difficulty": "beginner",
+    "duration_weeks": 4,
+    "prerequisites": [],
+    "outcomes": [
+      "Introductory understanding of react",
+      "Introductory understanding of hooks",
+      "Introductory understanding of context",
+      "Introductory understanding of performance"
+    ]
+  },
+  {
+    "course_id": "react-advanced-int",
+    "title": "Advanced React (Intermediate)",
+    "skills": [
+      "react",
+      "hooks",
+      "context",
+      "performance"
+    ],
+    "difficulty": "intermediate",
+    "duration_weeks": 5,
+    "prerequisites": [
+      "Basic knowledge of react",
+      "Basic knowledge of hooks",
+      "Basic knowledge of context",
+      "Basic knowledge of performance"
+    ],
+    "outcomes": [
+      "Hands-on practice with react",
+      "Hands-on practice with hooks",
+      "Hands-on practice with context",
+      "Hands-on practice with performance"
+    ]
+  },
+  {
+    "course_id": "react-advanced-adv",
+    "title": "Advanced React (Advanced)",
+    "skills": [
+      "react",
+      "hooks",
+      "context",
+      "performance"
+    ],
+    "difficulty": "advanced",
+    "duration_weeks": 7,
+    "prerequisites": [
+      "Intermediate proficiency in react",
+      "Intermediate proficiency in hooks",
+      "Intermediate proficiency in context",
+      "Intermediate proficiency in performance"
+    ],
+    "outcomes": [
+      "Specialized/production-grade expertise in react",
+      "Specialized/production-grade expertise in hooks",
+      "Specialized/production-grade expertise in context",
+      "Specialized/production-grade expertise in performance"
+    ]
+  },
+  {
+    "course_id": "typescript-intro-beg",
+    "title": "TypeScript Intro (Beginner)",
+    "skills": [
+      "typescript",
+      "interfaces",
+      "generics"
+    ],
+    "difficulty": "beginner",
+    "duration_weeks": 3,
+    "prerequisites": [],
+    "outcomes": [
+      "Introductory understanding of typescript",
+      "Introductory understanding of interfaces",
+      "Introductory understanding of generics"
+    ]
+  },
+  {
+    "course_id": "typescript-intro-int",
+    "title": "TypeScript Intro (Intermediate)",
+    "skills": [
+      "typescript",
+      "interfaces",
+      "generics"
+    ],
+    "difficulty": "intermediate",
+    "duration_weeks": 3,
+    "prerequisites": [
+      "Basic knowledge of typescript",
+      "Basic knowledge of interfaces",
+      "Basic knowledge of generics"
+    ],
+    "outcomes": [
+      "Hands-on practice with typescript",
+      "Hands-on practice with interfaces",
+      "Hands-on practice with generics"
+    ]
+  },
+  {
+    "course_id": "typescript-intro-adv",
+    "title": "TypeScript Intro (Advanced)",
+    "skills": [
+      "typescript",
+      "interfaces",
+      "generics"
+    ],
+    "difficulty": "advanced",
+    "duration_weeks": 4,
+    "prerequisites": [
+      "Intermediate proficiency in typescript",
+      "Intermediate proficiency in interfaces",
+      "Intermediate proficiency in generics"
+    ],
+    "outcomes": [
+      "Specialized/production-grade expertise in typescript",
+      "Specialized/production-grade expertise in interfaces",
+      "Specialized/production-grade expertise in generics"
+    ]
+  },
+  {
+    "course_id": "nodejs-basics-beg",
+    "title": "Node.js Basics (Beginner)",
+    "skills": [
+      "nodejs",
+      "npm",
+      "modules"
+    ],
+    "difficulty": "beginner",
+    "duration_weeks": 3,
+    "prerequisites": [],
+    "outcomes": [
+      "Introductory understanding of nodejs",
+      "Introductory understanding of npm",
+      "Introductory understanding of modules"
+    ]
+  },
+  {
+    "course_id": "nodejs-basics-int",
+    "title": "Node.js Basics (Intermediate)",
+    "skills": [
+      "nodejs",
+      "npm",
+      "modules"
+    ],
+    "difficulty": "intermediate",
+    "duration_weeks": 3,
+    "prerequisites": [
+      "Basic knowledge of nodejs",
+      "Basic knowledge of npm",
+      "Basic knowledge of modules"
+    ],
+    "outcomes": [
+      "Hands-on practice with nodejs",
+      "Hands-on practice with npm",
+      "Hands-on practice with modules"
+    ]
+  },
+  {
+    "course_id": "nodejs-basics-adv",
+    "title": "Node.js Basics (Advanced)",
+    "skills": [
+      "nodejs",
+      "npm",
+      "modules"
+    ],
+    "difficulty": "advanced",
+    "duration_weeks": 4,
+    "prerequisites": [
+      "Intermediate proficiency in nodejs",
+      "Intermediate proficiency in npm",
+      "Intermediate proficiency in modules"
+    ],
+    "outcomes": [
+      "Specialized/production-grade expertise in nodejs",
+      "Specialized/production-grade expertise in npm",
+      "Specialized/production-grade expertise in modules"
+    ]
+  },
+  {
+    "course_id": "express-rest-api-beg",
+    "title": "REST APIs with Express (Beginner)",
+    "skills": [
+      "rest",
+      "nodejs",
+      "api design"
+    ],
+    "difficulty": "beginner",
+    "duration_weeks": 3,
+    "prerequisites": [],
+    "outcomes": [
+      "Introductory understanding of rest",
+      "Introductory understanding of nodejs",
+      "Introductory understanding of api design"
+    ]
+  },
+  {
+    "course_id": "express-rest-api-int",
+    "title": "REST APIs with Express (Intermediate)",
+    "skills": [
+      "rest",
+      "nodejs",
+      "api design"
+    ],
+    "difficulty": "intermediate",
+    "duration_weeks": 4,
+    "prerequisites": [
+      "Basic knowledge of rest",
+      "Basic knowledge of nodejs",
+      "Basic knowledge of api design"
+    ],
+    "outcomes": [
+      "Hands-on practice with rest",
+      "Hands-on practice with nodejs",
+      "Hands-on practice with api design"
+    ]
+  },
+  {
+    "course_id": "express-rest-api-adv",
+    "title": "REST APIs with Express (Advanced)",
+    "skills": [
+      "rest",
+      "nodejs",
+      "api design"
+    ],
+    "difficulty": "advanced",
+    "duration_weeks": 6,
+    "prerequisites": [
+      "Intermediate proficiency in rest",
+      "Intermediate proficiency in nodejs",
+      "Intermediate proficiency in api design"
+    ],
+    "outcomes": [
+      "Specialized/production-grade expertise in rest",
+      "Specialized/production-grade expertise in nodejs",
+      "Specialized/production-grade expertise in api design"
+    ]
+  },
+  {
+    "course_id": "sql-fundamentals-beg",
+    "title": "SQL Fundamentals (Beginner)",
+    "skills": [
+      "sql",
+      "joins",
+      "aggregation"
+    ],
+    "difficulty": "beginner",
+    "duration_weeks": 3,
+    "prerequisites": [],
+    "outcomes": [
+      "Introductory understanding of sql",
+      "Introductory understanding of joins",
+      "Introductory understanding of aggregation"
+    ]
+  },
+  {
+    "course_id": "sql-fundamentals-int",
+    "title": "SQL Fundamentals (Intermediate)",
+    "skills": [
+      "sql",
+      "joins",
+      "aggregation"
+    ],
+    "difficulty": "intermediate",
+    "duration_weeks": 3,
+    "prerequisites": [
+      "Basic knowledge of sql",
+      "Basic knowledge of joins",
+      "Basic knowledge of aggregation"
+    ],
+    "outcomes": [
+      "Hands-on practice with sql",
+      "Hands-on practice with joins",
+      "Hands-on practice with aggregation"
+    ]
+  },
+  {
+    "course_id": "sql-fundamentals-adv",
+    "title": "SQL Fundamentals (Advanced)",
+    "skills": [
+      "sql",
+      "joins",
+      "aggregation"
+    ],
+    "difficulty": "advanced",
+    "duration_weeks": 4,
+    "prerequisites": [
+      "Intermediate proficiency in sql",
+      "Intermediate proficiency in joins",
+      "Intermediate proficiency in aggregation"
+    ],
+    "outcomes": [
+      "Specialized/production-grade expertise in sql",
+      "Specialized/production-grade expertise in joins",
+      "Specialized/production-grade expertise in aggregation"
+    ]
+  },
+  {
+    "course_id": "postgresql-advanced-beg",
+    "title": "PostgreSQL Advanced (Beginner)",
+    "skills": [
+      "postgresql",
+      "indexes",
+      "functions"
+    ],
+    "difficulty": "beginner",
+    "duration_weeks": 3,
+    "prerequisites": [],
+    "outcomes": [
+      "Introductory understanding of postgresql",
+      "Introductory understanding of indexes",
+      "Introductory understanding of functions"
+    ]
+  },
+  {
+    "course_id": "postgresql-advanced-int",
+    "title": "PostgreSQL Advanced (Intermediate)",
+    "skills": [
+      "postgresql",
+      "indexes",
+      "functions"
+    ],
+    "difficulty": "intermediate",
+    "duration_weeks": 4,
+    "prerequisites": [
+      "Basic knowledge of postgresql",
+      "Basic knowledge of indexes",
+      "Basic knowledge of functions"
+    ],
+    "outcomes": [
+      "Hands-on practice with postgresql",
+      "Hands-on practice with indexes",
+      "Hands-on practice with functions"
+    ]
+  },
+  {
+    "course_id": "postgresql-advanced-adv",
+    "title": "PostgreSQL Advanced (Advanced)",
+    "skills": [
+      "postgresql",
+      "indexes",
+      "functions"
+    ],
+    "difficulty": "advanced",
+    "duration_weeks": 6,
+    "prerequisites": [
+      "Intermediate proficiency in postgresql",
+      "Intermediate proficiency in indexes",
+      "Intermediate proficiency in functions"
+    ],
+    "outcomes": [
+      "Specialized/production-grade expertise in postgresql",
+      "Specialized/production-grade expertise in indexes",
+      "Specialized/production-grade expertise in functions"
+    ]
+  },
+  {
+    "course_id": "mongodb-basics-beg",
+    "title": "MongoDB Basics (Beginner)",
+    "skills": [
+      "mongodb",
+      "queries",
+      "aggregation"
+    ],
+    "difficulty": "beginner",
+    "duration_weeks": 3,
+    "prerequisites": [],
+    "outcomes": [
+      "Introductory understanding of mongodb",
+      "Introductory understanding of queries",
+      "Introductory understanding of aggregation"
+    ]
+  },
+  {
+    "course_id": "mongodb-basics-int",
+    "title": "MongoDB Basics (Intermediate)",
+    "skills": [
+      "mongodb",
+      "queries",
+      "aggregation"
+    ],
+    "difficulty": "intermediate",
+    "duration_weeks": 3,
+    "prerequisites": [
+      "Basic knowledge of mongodb",
+      "Basic knowledge of queries",
+      "Basic knowledge of aggregation"
+    ],
+    "outcomes": [
+      "Hands-on practice with mongodb",
+      "Hands-on practice with queries",
+      "Hands-on practice with aggregation"
+    ]
+  },
+  {
+    "course_id": "mongodb-basics-adv",
+    "title": "MongoDB Basics (Advanced)",
+    "skills": [
+      "mongodb",
+      "queries",
+      "aggregation"
+    ],
+    "difficulty": "advanced",
+    "duration_weeks": 4,
+    "prerequisites": [
+      "Intermediate proficiency in mongodb",
+      "Intermediate proficiency in queries",
+      "Intermediate proficiency in aggregation"
+    ],
+    "outcomes": [
+      "Specialized/production-grade expertise in mongodb",
+      "Specialized/production-grade expertise in queries",
+      "Specialized/production-grade expertise in aggregation"
+    ]
+  },
+  {
+    "course_id": "docker-basics-beg",
+    "title": "Docker Basics (Beginner)",
+    "skills": [
+      "docker",
+      "containers",
+      "images"
+    ],
+    "difficulty": "beginner",
+    "duration_weeks": 3,
+    "prerequisites": [],
+    "outcomes": [
+      "Introductory understanding of docker",
+      "Introductory understanding of containers",
+      "Introductory understanding of images"
+    ]
+  },
+  {
+    "course_id": "docker-basics-int",
+    "title": "Docker Basics (Intermediate)",
+    "skills": [
+      "docker",
+      "containers",
+      "images"
+    ],
+    "difficulty": "intermediate",
+    "duration_weeks": 2,
+    "prerequisites": [
+      "Basic knowledge of docker",
+      "Basic knowledge of containers",
+      "Basic knowledge of images"
+    ],
+    "outcomes": [
+      "Hands-on practice with docker",
+      "Hands-on practice with containers",
+      "Hands-on practice with images"
+    ]
+  },
+  {
+    "course_id": "docker-basics-adv",
+    "title": "Docker Basics (Advanced)",
+    "skills": [
+      "docker",
+      "containers",
+      "images"
+    ],
+    "difficulty": "advanced",
+    "duration_weeks": 3,
+    "prerequisites": [
+      "Intermediate proficiency in docker",
+      "Intermediate proficiency in containers",
+      "Intermediate proficiency in images"
+    ],
+    "outcomes": [
+      "Specialized/production-grade expertise in docker",
+      "Specialized/production-grade expertise in containers",
+      "Specialized/production-grade expertise in images"
+    ]
+  },
+  {
+    "course_id": "kubernetes-basics-beg",
+    "title": "Kubernetes Basics (Beginner)",
+    "skills": [
+      "kubernetes",
+      "pods",
+      "deployments"
+    ],
+    "difficulty": "beginner",
+    "duration_weeks": 3,
+    "prerequisites": [],
+    "outcomes": [
+      "Introductory understanding of kubernetes",
+      "Introductory understanding of pods",
+      "Introductory understanding of deployments"
+    ]
+  },
+  {
+    "course_id": "kubernetes-basics-int",
+    "title": "Kubernetes Basics (Intermediate)",
+    "skills": [
+      "kubernetes",
+      "pods",
+      "deployments"
+    ],
+    "difficulty": "intermediate",
+    "duration_weeks": 3,
+    "prerequisites": [
+      "Basic knowledge of kubernetes",
+      "Basic knowledge of pods",
+      "Basic knowledge of deployments"
+    ],
+    "outcomes": [
+      "Hands-on practice with kubernetes",
+      "Hands-on practice with pods",
+      "Hands-on practice with deployments"
+    ]
+  },
+  {
+    "course_id": "kubernetes-basics-adv",
+    "title": "Kubernetes Basics (Advanced)",
+    "skills": [
+      "kubernetes",
+      "pods",
+      "deployments"
+    ],
+    "difficulty": "advanced",
+    "duration_weeks": 4,
+    "prerequisites": [
+      "Intermediate proficiency in kubernetes",
+      "Intermediate proficiency in pods",
+      "Intermediate proficiency in deployments"
+    ],
+    "outcomes": [
+      "Specialized/production-grade expertise in kubernetes",
+      "Specialized/production-grade expertise in pods",
+      "Specialized/production-grade expertise in deployments"
+    ]
+  },
+  {
+    "course_id": "aws-fundamentals-beg",
+    "title": "AWS Fundamentals (Beginner)",
+    "skills": [
+      "aws",
+      "ec2",
+      "s3",
+      "iam"
+    ],
+    "difficulty": "beginner",
+    "duration_weeks": 3,
+    "prerequisites": [],
+    "outcomes": [
+      "Introductory understanding of aws",
+      "Introductory understanding of ec2",
+      "Introductory understanding of s3",
+      "Introductory understanding of iam"
+    ]
+  },
+  {
+    "course_id": "aws-fundamentals-int",
+    "title": "AWS Fundamentals (Intermediate)",
+    "skills": [
+      "aws",
+      "ec2",
+      "s3",
+      "iam"
+    ],
+    "difficulty": "intermediate",
+    "duration_weeks": 4,
+    "prerequisites": [
+      "Basic knowledge of aws",
+      "Basic knowledge of ec2",
+      "Basic knowledge of s3",
+      "Basic knowledge of iam"
+    ],
+    "outcomes": [
+      "Hands-on practice with aws",
+      "Hands-on practice with ec2",
+      "Hands-on practice with s3",
+      "Hands-on practice with iam"
+    ]
+  },
+  {
+    "course_id": "aws-fundamentals-adv",
+    "title": "AWS Fundamentals (Advanced)",
+    "skills": [
+      "aws",
+      "ec2",
+      "s3",
+      "iam"
+    ],
+    "difficulty": "advanced",
+    "duration_weeks": 6,
+    "prerequisites": [
+      "Intermediate proficiency in aws",
+      "Intermediate proficiency in ec2",
+      "Intermediate proficiency in s3",
+      "Intermediate proficiency in iam"
+    ],
+    "outcomes": [
+      "Specialized/production-grade expertise in aws",
+      "Specialized/production-grade expertise in ec2",
+      "Specialized/production-grade expertise in s3",
+      "Specialized/production-grade expertise in iam"
+    ]
+  },
+  {
+    "course_id": "gcp-fundamentals-beg",
+    "title": "GCP Fundamentals (Beginner)",
+    "skills": [
+      "gcp",
+      "compute",
+      "storage"
+    ],
+    "difficulty": "beginner",
+    "duration_weeks": 3,
+    "prerequisites": [],
+    "outcomes": [
+      "Introductory understanding of gcp",
+      "Introductory understanding of compute",
+      "Introductory understanding of storage"
+    ]
+  },
+  {
+    "course_id": "gcp-fundamentals-int",
+    "title": "GCP Fundamentals (Intermediate)",
+    "skills": [
+      "gcp",
+      "compute",
+      "storage"
+    ],
+    "difficulty": "intermediate",
+    "duration_weeks": 3,
+    "prerequisites": [
+      "Basic knowledge of gcp",
+      "Basic knowledge of compute",
+      "Basic knowledge of storage"
+    ],
+    "outcomes": [
+      "Hands-on practice with gcp",
+      "Hands-on practice with compute",
+      "Hands-on practice with storage"
+    ]
+  },
+  {
+    "course_id": "gcp-fundamentals-adv",
+    "title": "GCP Fundamentals (Advanced)",
+    "skills": [
+      "gcp",
+      "compute",
+      "storage"
+    ],
+    "difficulty": "advanced",
+    "duration_weeks": 4,
+    "prerequisites": [
+      "Intermediate proficiency in gcp",
+      "Intermediate proficiency in compute",
+      "Intermediate proficiency in storage"
+    ],
+    "outcomes": [
+      "Specialized/production-grade expertise in gcp",
+      "Specialized/production-grade expertise in compute",
+      "Specialized/production-grade expertise in storage"
+    ]
+  },
+  {
+    "course_id": "python-basics-beg",
+    "title": "Python Basics (Beginner)",
+    "skills": [
+      "python",
+      "functions",
+      "loops"
+    ],
+    "difficulty": "beginner",
+    "duration_weeks": 3,
+    "prerequisites": [],
+    "outcomes": [
+      "Introductory understanding of python",
+      "Introductory understanding of functions",
+      "Introductory understanding of loops"
+    ]
+  },
+  {
+    "course_id": "python-basics-int",
+    "title": "Python Basics (Intermediate)",
+    "skills": [
+      "python",
+      "functions",
+      "loops"
+    ],
+    "difficulty": "intermediate",
+    "duration_weeks": 3,
+    "prerequisites": [
+      "Basic knowledge of python",
+      "Basic knowledge of functions",
+      "Basic knowledge of loops"
+    ],
+    "outcomes": [
+      "Hands-on practice with python",
+      "Hands-on practice with functions",
+      "Hands-on practice with loops"
+    ]
+  },
+  {
+    "course_id": "python-basics-adv",
+    "title": "Python Basics (Advanced)",
+    "skills": [
+      "python",
+      "functions",
+      "loops"
+    ],
+    "difficulty": "advanced",
+    "duration_weeks": 4,
+    "prerequisites": [
+      "Intermediate proficiency in python",
+      "Intermediate proficiency in functions",
+      "Intermediate proficiency in loops"
+    ],
+    "outcomes": [
+      "Specialized/production-grade expertise in python",
+      "Specialized/production-grade expertise in functions",
+      "Specialized/production-grade expertise in loops"
+    ]
+  },
+  {
+    "course_id": "data-analysis-pandas-beg",
+    "title": "Data Analysis with Pandas (Beginner)",
+    "skills": [
+      "pandas",
+      "numpy",
+      "visualization"
+    ],
+    "difficulty": "beginner",
+    "duration_weeks": 3,
+    "prerequisites": [],
+    "outcomes": [
+      "Introductory understanding of pandas",
+      "Introductory understanding of numpy",
+      "Introductory understanding of visualization"
+    ]
+  },
+  {
+    "course_id": "data-analysis-pandas-int",
+    "title": "Data Analysis with Pandas (Intermediate)",
+    "skills": [
+      "pandas",
+      "numpy",
+      "visualization"
+    ],
+    "difficulty": "intermediate",
+    "duration_weeks": 4,
+    "prerequisites": [
+      "Basic knowledge of pandas",
+      "Basic knowledge of numpy",
+      "Basic knowledge of visualization"
+    ],
+    "outcomes": [
+      "Hands-on practice with pandas",
+      "Hands-on practice with numpy",
+      "Hands-on practice with visualization"
+    ]
+  },
+  {
+    "course_id": "data-analysis-pandas-adv",
+    "title": "Data Analysis with Pandas (Advanced)",
+    "skills": [
+      "pandas",
+      "numpy",
+      "visualization"
+    ],
+    "difficulty": "advanced",
+    "duration_weeks": 6,
+    "prerequisites": [
+      "Intermediate proficiency in pandas",
+      "Intermediate proficiency in numpy",
+      "Intermediate proficiency in visualization"
+    ],
+    "outcomes": [
+      "Specialized/production-grade expertise in pandas",
+      "Specialized/production-grade expertise in numpy",
+      "Specialized/production-grade expertise in visualization"
+    ]
+  },
+  {
+    "course_id": "ml-intro-beg",
+    "title": "Intro to Machine Learning (Beginner)",
+    "skills": [
+      "ml",
+      "scikit-learn",
+      "evaluation"
+    ],
+    "difficulty": "beginner",
+    "duration_weeks": 4,
+    "prerequisites": [],
+    "outcomes": [
+      "Introductory understanding of ml",
+      "Introductory understanding of scikit-learn",
+      "Introductory understanding of evaluation"
+    ]
+  },
+  {
+    "course_id": "ml-intro-int",
+    "title": "Intro to Machine Learning (Intermediate)",
+    "skills": [
+      "ml",
+      "scikit-learn",
+      "evaluation"
+    ],
+    "difficulty": "intermediate",
+    "duration_weeks": 5,
+    "prerequisites": [
+      "Basic knowledge of ml",
+      "Basic knowledge of scikit-learn",
+      "Basic knowledge of evaluation"
+    ],
+    "outcomes": [
+      "Hands-on practice with ml",
+      "Hands-on practice with scikit-learn",
+      "Hands-on practice with evaluation"
+    ]
+  },
+  {
+    "course_id": "ml-intro-adv",
+    "title": "Intro to Machine Learning (Advanced)",
+    "skills": [
+      "ml",
+      "scikit-learn",
+      "evaluation"
+    ],
+    "difficulty": "advanced",
+    "duration_weeks": 7,
+    "prerequisites": [
+      "Intermediate proficiency in ml",
+      "Intermediate proficiency in scikit-learn",
+      "Intermediate proficiency in evaluation"
+    ],
+    "outcomes": [
+      "Specialized/production-grade expertise in ml",
+      "Specialized/production-grade expertise in scikit-learn",
+      "Specialized/production-grade expertise in evaluation"
+    ]
+  },
+  {
+    "course_id": "deep-learning-pytorch-beg",
+    "title": "Deep Learning with PyTorch (Beginner)",
+    "skills": [
+      "pytorch",
+      "neural networks",
+      "cnn"
+    ],
+    "difficulty": "beginner",
+    "duration_weeks": 4,
+    "prerequisites": [],
+    "outcomes": [
+      "Introductory understanding of pytorch",
+      "Introductory understanding of neural networks",
+      "Introductory understanding of cnn"
+    ]
+  },
+  {
+    "course_id": "deep-learning-pytorch-int",
+    "title": "Deep Learning with PyTorch (Intermediate)",
+    "skills": [
+      "pytorch",
+      "neural networks",
+      "cnn"
+    ],
+    "difficulty": "intermediate",
+    "duration_weeks": 6,
+    "prerequisites": [
+      "Basic knowledge of pytorch",
+      "Basic knowledge of neural networks",
+      "Basic knowledge of cnn"
+    ],
+    "outcomes": [
+      "Hands-on practice with pytorch",
+      "Hands-on practice with neural networks",
+      "Hands-on practice with cnn"
+    ]
+  },
+  {
+    "course_id": "deep-learning-pytorch-adv",
+    "title": "Deep Learning with PyTorch (Advanced)",
+    "skills": [
+      "pytorch",
+      "neural networks",
+      "cnn"
+    ],
+    "difficulty": "advanced",
+    "duration_weeks": 9,
+    "prerequisites": [
+      "Intermediate proficiency in pytorch",
+      "Intermediate proficiency in neural networks",
+      "Intermediate proficiency in cnn"
+    ],
+    "outcomes": [
+      "Specialized/production-grade expertise in pytorch",
+      "Specialized/production-grade expertise in neural networks",
+      "Specialized/production-grade expertise in cnn"
+    ]
+  },
+  {
+    "course_id": "nlp-basics-beg",
+    "title": "NLP Basics (Beginner)",
+    "skills": [
+      "nlp",
+      "text processing",
+      "vectorization"
+    ],
+    "difficulty": "beginner",
+    "duration_weeks": 3,
+    "prerequisites": [],
+    "outcomes": [
+      "Introductory understanding of nlp",
+      "Introductory understanding of text processing",
+      "Introductory understanding of vectorization"
+    ]
+  },
+  {
+    "course_id": "nlp-basics-int",
+    "title": "NLP Basics (Intermediate)",
+    "skills": [
+      "nlp",
+      "text processing",
+      "vectorization"
+    ],
+    "difficulty": "intermediate",
+    "duration_weeks": 4,
+    "prerequisites": [
+      "Basic knowledge of nlp",
+      "Basic knowledge of text processing",
+      "Basic knowledge of vectorization"
+    ],
+    "outcomes": [
+      "Hands-on practice with nlp",
+      "Hands-on practice with text processing",
+      "Hands-on practice with vectorization"
+    ]
+  },
+  {
+    "course_id": "nlp-basics-adv",
+    "title": "NLP Basics (Advanced)",
+    "skills": [
+      "nlp",
+      "text processing",
+      "vectorization"
+    ],
+    "difficulty": "advanced",
+    "duration_weeks": 6,
+    "prerequisites": [
+      "Intermediate proficiency in nlp",
+      "Intermediate proficiency in text processing",
+      "Intermediate proficiency in vectorization"
+    ],
+    "outcomes": [
+      "Specialized/production-grade expertise in nlp",
+      "Specialized/production-grade expertise in text processing",
+      "Specialized/production-grade expertise in vectorization"
+    ]
+  },
+  {
+    "course_id": "qa-automation-beg",
+    "title": "QA Automation (Beginner)",
+    "skills": [
+      "selenium",
+      "pytest",
+      "api testing"
+    ],
+    "difficulty": "beginner",
+    "duration_weeks": 3,
+    "prerequisites": [],
+    "outcomes": [
+      "Introductory understanding of selenium",
+      "Introductory understanding of pytest",
+      "Introductory understanding of api testing"
+    ]
+  },
+  {
+    "course_id": "qa-automation-int",
+    "title": "QA Automation (Intermediate)",
+    "skills": [
+      "selenium",
+      "pytest",
+      "api testing"
+    ],
+    "difficulty": "intermediate",
+    "duration_weeks": 4,
+    "prerequisites": [
+      "Basic knowledge of selenium",
+      "Basic knowledge of pytest",
+      "Basic knowledge of api testing"
+    ],
+    "outcomes": [
+      "Hands-on practice with selenium",
+      "Hands-on practice with pytest",
+      "Hands-on practice with api testing"
+    ]
+  },
+  {
+    "course_id": "qa-automation-adv",
+    "title": "QA Automation (Advanced)",
+    "skills": [
+      "selenium",
+      "pytest",
+      "api testing"
+    ],
+    "difficulty": "advanced",
+    "duration_weeks": 6,
+    "prerequisites": [
+      "Intermediate proficiency in selenium",
+      "Intermediate proficiency in pytest",
+      "Intermediate proficiency in api testing"
+    ],
+    "outcomes": [
+      "Specialized/production-grade expertise in selenium",
+      "Specialized/production-grade expertise in pytest",
+      "Specialized/production-grade expertise in api testing"
+    ]
+  },
+  {
+    "course_id": "ci-cd-github-beg",
+    "title": "CI/CD with GitHub Actions (Beginner)",
+    "skills": [
+      "ci",
+      "cd",
+      "github actions"
+    ],
+    "difficulty": "beginner",
+    "duration_weeks": 3,
+    "prerequisites": [],
+    "outcomes": [
+      "Introductory understanding of ci",
+      "Introductory understanding of cd",
+      "Introductory understanding of github actions"
+    ]
+  },
+  {
+    "course_id": "ci-cd-github-int",
+    "title": "CI/CD with GitHub Actions (Intermediate)",
+    "skills": [
+      "ci",
+      "cd",
+      "github actions"
+    ],
+    "difficulty": "intermediate",
+    "duration_weeks": 2,
+    "prerequisites": [
+      "Basic knowledge of ci",
+      "Basic knowledge of cd",
+      "Basic knowledge of github actions"
+    ],
+    "outcomes": [
+      "Hands-on practice with ci",
+      "Hands-on practice with cd",
+      "Hands-on practice with github actions"
+    ]
+  },
+  {
+    "course_id": "ci-cd-github-adv",
+    "title": "CI/CD with GitHub Actions (Advanced)",
+    "skills": [
+      "ci",
+      "cd",
+      "github actions"
+    ],
+    "difficulty": "advanced",
+    "duration_weeks": 3,
+    "prerequisites": [
+      "Intermediate proficiency in ci",
+      "Intermediate proficiency in cd",
+      "Intermediate proficiency in github actions"
+    ],
+    "outcomes": [
+      "Specialized/production-grade expertise in ci",
+      "Specialized/production-grade expertise in cd",
+      "Specialized/production-grade expertise in github actions"
+    ]
+  },
+  {
+    "course_id": "linux-shell-beg",
+    "title": "Linux & Shell Scripting (Beginner)",
+    "skills": [
+      "linux",
+      "bash",
+      "scripting"
+    ],
+    "difficulty": "beginner",
+    "duration_weeks": 3,
+    "prerequisites": [],
+    "outcomes": [
+      "Introductory understanding of linux",
+      "Introductory understanding of bash",
+      "Introductory understanding of scripting"
+    ]
+  },
+  {
+    "course_id": "linux-shell-int",
+    "title": "Linux & Shell Scripting (Intermediate)",
+    "skills": [
+      "linux",
+      "bash",
+      "scripting"
+    ],
+    "difficulty": "intermediate",
+    "duration_weeks": 3,
+    "prerequisites": [
+      "Basic knowledge of linux",
+      "Basic knowledge of bash",
+      "Basic knowledge of scripting"
+    ],
+    "outcomes": [
+      "Hands-on practice with linux",
+      "Hands-on practice with bash",
+      "Hands-on practice with scripting"
+    ]
+  },
+  {
+    "course_id": "linux-shell-adv",
+    "title": "Linux & Shell Scripting (Advanced)",
+    "skills": [
+      "linux",
+      "bash",
+      "scripting"
+    ],
+    "difficulty": "advanced",
+    "duration_weeks": 4,
+    "prerequisites": [
+      "Intermediate proficiency in linux",
+      "Intermediate proficiency in bash",
+      "Intermediate proficiency in scripting"
+    ],
+    "outcomes": [
+      "Specialized/production-grade expertise in linux",
+      "Specialized/production-grade expertise in bash",
+      "Specialized/production-grade expertise in scripting"
+    ]
+  },
+  {
+    "course_id": "git-version-control-beg",
+    "title": "Git Version Control (Beginner)",
+    "skills": [
+      "git",
+      "branches",
+      "merge"
+    ],
+    "difficulty": "beginner",
+    "duration_weeks": 3,
+    "prerequisites": [],
+    "outcomes": [
+      "Introductory understanding of git",
+      "Introductory understanding of branches",
+      "Introductory understanding of merge"
+    ]
+  },
+  {
+    "course_id": "git-version-control-int",
+    "title": "Git Version Control (Intermediate)",
+    "skills": [
+      "git",
+      "branches",
+      "merge"
+    ],
+    "difficulty": "intermediate",
+    "duration_weeks": 2,
+    "prerequisites": [
+      "Basic knowledge of git",
+      "Basic knowledge of branches",
+      "Basic knowledge of merge"
+    ],
+    "outcomes": [
+      "Hands-on practice with git",
+      "Hands-on practice with branches",
+      "Hands-on practice with merge"
+    ]
+  },
+  {
+    "course_id": "git-version-control-adv",
+    "title": "Git Version Control (Advanced)",
+    "skills": [
+      "git",
+      "branches",
+      "merge"
+    ],
+    "difficulty": "advanced",
+    "duration_weeks": 3,
+    "prerequisites": [
+      "Intermediate proficiency in git",
+      "Intermediate proficiency in branches",
+      "Intermediate proficiency in merge"
+    ],
+    "outcomes": [
+      "Specialized/production-grade expertise in git",
+      "Specialized/production-grade expertise in branches",
+      "Specialized/production-grade expertise in merge"
+    ]
+  },
+  {
+    "course_id": "security-basics-beg",
+    "title": "Security Basics (Beginner)",
+    "skills": [
+      "owasp",
+      "auth",
+      "csrf"
+    ],
+    "difficulty": "beginner",
+    "duration_weeks": 3,
+    "prerequisites": [],
+    "outcomes": [
+      "Introductory understanding of owasp",
+      "Introductory understanding of auth",
+      "Introductory understanding of csrf"
+    ]
+  },
+  {
+    "course_id": "security-basics-int",
+    "title": "Security Basics (Intermediate)",
+    "skills": [
+      "owasp",
+      "auth",
+      "csrf"
+    ],
+    "difficulty": "intermediate",
+    "duration_weeks": 3,
+    "prerequisites": [
+      "Basic knowledge of owasp",
+      "Basic knowledge of auth",
+      "Basic knowledge of csrf"
+    ],
+    "outcomes": [
+      "Hands-on practice with owasp",
+      "Hands-on practice with auth",
+      "Hands-on practice with csrf"
+    ]
+  },
+  {
+    "course_id": "security-basics-adv",
+    "title": "Security Basics (Advanced)",
+    "skills": [
+      "owasp",
+      "auth",
+      "csrf"
+    ],
+    "difficulty": "advanced",
+    "duration_weeks": 4,
+    "prerequisites": [
+      "Intermediate proficiency in owasp",
+      "Intermediate proficiency in auth",
+      "Intermediate proficiency in csrf"
+    ],
+    "outcomes": [
+      "Specialized/production-grade expertise in owasp",
+      "Specialized/production-grade expertise in auth",
+      "Specialized/production-grade expertise in csrf"
+    ]
+  },
+  {
+    "course_id": "microservices-intro-beg",
+    "title": "Intro to Microservices (Beginner)",
+    "skills": [
+      "microservices",
+      "api gateway",
+      "resilience"
+    ],
+    "difficulty": "beginner",
+    "duration_weeks": 4,
+    "prerequisites": [],
+    "outcomes": [
+      "Introductory understanding of microservices",
+      "Introductory understanding of api gateway",
+      "Introductory understanding of resilience"
+    ]
+  },
+  {
+    "course_id": "microservices-intro-int",
+    "title": "Intro to Microservices (Intermediate)",
+    "skills": [
+      "microservices",
+      "api gateway",
+      "resilience"
+    ],
+    "difficulty": "intermediate",
+    "duration_weeks": 5,
+    "prerequisites": [
+      "Basic knowledge of microservices",
+      "Basic knowledge of api gateway",
+      "Basic knowledge of resilience"
+    ],
+    "outcomes": [
+      "Hands-on practice with microservices",
+      "Hands-on practice with api gateway",
+      "Hands-on practice with resilience"
+    ]
+  },
+  {
+    "course_id": "microservices-intro-adv",
+    "title": "Intro to Microservices (Advanced)",
+    "skills": [
+      "microservices",
+      "api gateway",
+      "resilience"
+    ],
+    "difficulty": "advanced",
+    "duration_weeks": 7,
+    "prerequisites": [
+      "Intermediate proficiency in microservices",
+      "Intermediate proficiency in api gateway",
+      "Intermediate proficiency in resilience"
+    ],
+    "outcomes": [
+      "Specialized/production-grade expertise in microservices",
+      "Specialized/production-grade expertise in api gateway",
+      "Specialized/production-grade expertise in resilience"
+    ]
+  },
+  {
+    "course_id": "graphql-basics-beg",
+    "title": "GraphQL Basics (Beginner)",
+    "skills": [
+      "graphql",
+      "schemas",
+      "queries"
+    ],
+    "difficulty": "beginner",
+    "duration_weeks": 3,
+    "prerequisites": [],
+    "outcomes": [
+      "Introductory understanding of graphql",
+      "Introductory understanding of schemas",
+      "Introductory understanding of queries"
+    ]
+  },
+  {
+    "course_id": "graphql-basics-int",
+    "title": "GraphQL Basics (Intermediate)",
+    "skills": [
+      "graphql",
+      "schemas",
+      "queries"
+    ],
+    "difficulty": "intermediate",
+    "duration_weeks": 3,
+    "prerequisites": [
+      "Basic knowledge of graphql",
+      "Basic knowledge of schemas",
+      "Basic knowledge of queries"
+    ],
+    "outcomes": [
+      "Hands-on practice with graphql",
+      "Hands-on practice with schemas",
+      "Hands-on practice with queries"
+    ]
+  },
+  {
+    "course_id": "graphql-basics-adv",
+    "title": "GraphQL Basics (Advanced)",
+    "skills": [
+      "graphql",
+      "schemas",
+      "queries"
+    ],
+    "difficulty": "advanced",
+    "duration_weeks": 4,
+    "prerequisites": [
+      "Intermediate proficiency in graphql",
+      "Intermediate proficiency in schemas",
+      "Intermediate proficiency in queries"
+    ],
+    "outcomes": [
+      "Specialized/production-grade expertise in graphql",
+      "Specialized/production-grade expertise in schemas",
+      "Specialized/production-grade expertise in queries"
+    ]
+  },
+  {
+    "course_id": "prompt-engineering-beg",
+    "title": "Prompt Engineering (Beginner)",
+    "skills": [
+      "prompting",
+      "rag",
+      "evaluation"
+    ],
+    "difficulty": "beginner",
+    "duration_weeks": 3,
+    "prerequisites": [],
+    "outcomes": [
+      "Introductory understanding of prompting",
+      "Introductory understanding of rag",
+      "Introductory understanding of evaluation"
+    ]
+  },
+  {
+    "course_id": "prompt-engineering-int",
+    "title": "Prompt Engineering (Intermediate)",
+    "skills": [
+      "prompting",
+      "rag",
+      "evaluation"
+    ],
+    "difficulty": "intermediate",
+    "duration_weeks": 3,
+    "prerequisites": [
+      "Basic knowledge of prompting",
+      "Basic knowledge of rag",
+      "Basic knowledge of evaluation"
+    ],
+    "outcomes": [
+      "Hands-on practice with prompting",
+      "Hands-on practice with rag",
+      "Hands-on practice with evaluation"
+    ]
+  },
+  {
+    "course_id": "prompt-engineering-adv",
+    "title": "Prompt Engineering (Advanced)",
+    "skills": [
+      "prompting",
+      "rag",
+      "evaluation"
+    ],
+    "difficulty": "advanced",
+    "duration_weeks": 4,
+    "prerequisites": [
+      "Intermediate proficiency in prompting",
+      "Intermediate proficiency in rag",
+      "Intermediate proficiency in evaluation"
+    ],
+    "outcomes": [
+      "Specialized/production-grade expertise in prompting",
+      "Specialized/production-grade expertise in rag",
+      "Specialized/production-grade expertise in evaluation"
+    ]
+  },
+  {
+    "course_id": "llmops-beg",
+    "title": "LLMOps in Production (Beginner)",
+    "skills": [
+      "llmops",
+      "observability",
+      "guardrails"
+    ],
+    "difficulty": "beginner",
+    "duration_weeks": 4,
+    "prerequisites": [],
+    "outcomes": [
+      "Introductory understanding of llmops",
+      "Introductory understanding of observability",
+      "Introductory understanding of guardrails"
+    ]
+  },
+  {
+    "course_id": "llmops-int",
+    "title": "LLMOps in Production (Intermediate)",
+    "skills": [
+      "llmops",
+      "observability",
+      "guardrails"
+    ],
+    "difficulty": "intermediate",
+    "duration_weeks": 5,
+    "prerequisites": [
+      "Basic knowledge of llmops",
+      "Basic knowledge of observability",
+      "Basic knowledge of guardrails"
+    ],
+    "outcomes": [
+      "Hands-on practice with llmops",
+      "Hands-on practice with observability",
+      "Hands-on practice with guardrails"
+    ]
+  },
+  {
+    "course_id": "llmops-adv",
+    "title": "LLMOps in Production (Advanced)",
+    "skills": [
+      "llmops",
+      "observability",
+      "guardrails"
+    ],
+    "difficulty": "advanced",
+    "duration_weeks": 7,
+    "prerequisites": [
+      "Intermediate proficiency in llmops",
+      "Intermediate proficiency in observability",
+      "Intermediate proficiency in guardrails"
+    ],
+    "outcomes": [
+      "Specialized/production-grade expertise in llmops",
+      "Specialized/production-grade expertise in observability",
+      "Specialized/production-grade expertise in guardrails"
+    ]
+  },
+  {
+    "course_id": "data-engineering-beg",
+    "title": "Data Engineering Intro (Beginner)",
+    "skills": [
+      "etl",
+      "airflow",
+      "warehousing"
+    ],
+    "difficulty": "beginner",
+    "duration_weeks": 3,
+    "prerequisites": [],
+    "outcomes": [
+      "Introductory understanding of etl",
+      "Introductory understanding of airflow",
+      "Introductory understanding of warehousing"
+    ]
+  },
+  {
+    "course_id": "data-engineering-int",
+    "title": "Data Engineering Intro (Intermediate)",
+    "skills": [
+      "etl",
+      "airflow",
+      "warehousing"
+    ],
+    "difficulty": "intermediate",
+    "duration_weeks": 4,
+    "prerequisites": [
+      "Basic knowledge of etl",
+      "Basic knowledge of airflow",
+      "Basic knowledge of warehousing"
+    ],
+    "outcomes": [
+      "Hands-on practice with etl",
+      "Hands-on practice with airflow",
+      "Hands-on practice with warehousing"
+    ]
+  },
+  {
+    "course_id": "data-engineering-adv",
+    "title": "Data Engineering Intro (Advanced)",
+    "skills": [
+      "etl",
+      "airflow",
+      "warehousing"
+    ],
+    "difficulty": "advanced",
+    "duration_weeks": 6,
+    "prerequisites": [
+      "Intermediate proficiency in etl",
+      "Intermediate proficiency in airflow",
+      "Intermediate proficiency in warehousing"
+    ],
+    "outcomes": [
+      "Specialized/production-grade expertise in etl",
+      "Specialized/production-grade expertise in airflow",
+      "Specialized/production-grade expertise in warehousing"
+    ]
+  },
+
+  
+  {
+    "course_id": "pandas-analysis-int",
+    "title": "Pandas for Data Analysis",
+    "skills": ["pandas", "data wrangling", "aggregation", "joins"],
+    "difficulty": "intermediate",
+    "duration_weeks": 4,
+    "prerequisites": ["python"],
+    "outcomes": ["clean datasets", "groupby/merge mastery", "time-series basics"]
+  },
+  {
+    "course_id": "sql-analytics-int",
+    "title": "SQL for Analytics",
+    "skills": ["sql", "joins", "aggregation", "window functions"],
+    "difficulty": "intermediate",
+    "duration_weeks": 4,
+    "prerequisites": [],
+    "outcomes": ["write analytical queries", "optimize scans", "CTEs & windows"]
+  },
+  {
+    "course_id": "viz-tableau-beg",
+    "title": "Data Visualization with Tableau",
+    "skills": ["visualization", "tableau", "dashboards", "storytelling"],
+    "difficulty": "beginner",
+    "duration_weeks": 3,
+    "prerequisites": [],
+    "outcomes": ["design dashboards", "choose right charts", "publish & share"]
+  },
+  {
+    "course_id": "stats-for-analysts-int",
+    "title": "Statistics for Data Analysts",
+    "skills": ["statistics", "hypothesis testing", "probability", "sampling"],
+    "difficulty": "intermediate",
+    "duration_weeks": 4,
+    "prerequisites": ["python"],
+    "outcomes": ["A/B tests", "confidence intervals", "practical inference"]
+  },
+  {
+    "course_id": "sql-analytics-int",
+    "title": "SQL for Analytics",
+    "skills": ["sql", "joins", "aggregation", "window functions"],
+    "difficulty": "intermediate",
+    "duration_weeks": 4,
+    "prerequisites": [],
+    "outcomes": ["analytical queries", "optimize scans", "CTEs & windows"]
+  },
+  {
+    "course_id": "viz-tableau-beg",
+    "title": "Data Visualization with Tableau",
+    "skills": ["visualization", "tableau", "dashboards", "storytelling"],
+    "difficulty": "beginner",
+    "duration_weeks": 3,
+    "prerequisites": [],
+    "outcomes": ["design dashboards", "choose charts", "publish & share"]
+  },
+  {
+    "course_id": "pandas-analysis-int-beg",
+    "title": "Pandas for Data Analysis (Beginner)",
+    "skills": [
+      "pandas",
+      "data wrangling",
+      "aggregation",
+      "joins"
+    ],
+    "difficulty": "beginner",
+    "duration_weeks": 3,
+    "prerequisites": [],
+    "outcomes": [
+      "Introductory understanding of pandas",
+      "Introductory understanding of data wrangling",
+      "Introductory understanding of aggregation",
+      "Introductory understanding of joins"
+    ]
+  },
+  {
+    "course_id": "pandas-analysis-int-int",
+    "title": "Pandas for Data Analysis (Intermediate)",
+    "skills": [
+      "pandas",
+      "data wrangling",
+      "aggregation",
+      "joins"
+    ],
+    "difficulty": "intermediate",
+    "duration_weeks": 4,
+    "prerequisites": [
+      "Basic knowledge of pandas",
+      "Basic knowledge of data wrangling",
+      "Basic knowledge of aggregation",
+      "Basic knowledge of joins"
+    ],
+    "outcomes": [
+      "Hands-on practice with pandas",
+      "Hands-on practice with data wrangling",
+      "Hands-on practice with aggregation",
+      "Hands-on practice with joins"
+    ]
+  },
+  {
+    "course_id": "pandas-analysis-int-adv",
+    "title": "Pandas for Data Analysis (Advanced)",
+    "skills": [
+      "pandas",
+      "data wrangling",
+      "aggregation",
+      "joins"
+    ],
+    "difficulty": "advanced",
+    "duration_weeks": 6,
+    "prerequisites": [
+      "Intermediate proficiency in pandas",
+      "Intermediate proficiency in data wrangling",
+      "Intermediate proficiency in aggregation",
+      "Intermediate proficiency in joins"
+    ],
+    "outcomes": [
+      "Specialized/production-grade expertise in pandas",
+      "Specialized/production-grade expertise in data wrangling",
+      "Specialized/production-grade expertise in aggregation",
+      "Specialized/production-grade expertise in joins"
+    ]
+  },
+  {
+    "course_id": "sql-analytics-int-beg",
+    "title": "SQL for Analytics (Beginner)",
+    "skills": [
+      "sql",
+      "joins",
+      "aggregation",
+      "window functions"
+    ],
+    "difficulty": "beginner",
+    "duration_weeks": 3,
+    "prerequisites": [],
+    "outcomes": [
+      "Introductory understanding of sql",
+      "Introductory understanding of joins",
+      "Introductory understanding of aggregation",
+      "Introductory understanding of window functions"
+    ]
+  },
+  {
+    "course_id": "sql-analytics-int-int",
+    "title": "SQL for Analytics (Intermediate)",
+    "skills": [
+      "sql",
+      "joins",
+      "aggregation",
+      "window functions"
+    ],
+    "difficulty": "intermediate",
+    "duration_weeks": 4,
+    "prerequisites": [
+      "Basic knowledge of sql",
+      "Basic knowledge of joins",
+      "Basic knowledge of aggregation",
+      "Basic knowledge of window functions"
+    ],
+    "outcomes": [
+      "Hands-on practice with sql",
+      "Hands-on practice with joins",
+      "Hands-on practice with aggregation",
+      "Hands-on practice with window functions"
+    ]
+  },
+  {
+    "course_id": "sql-analytics-int-adv",
+    "title": "SQL for Analytics (Advanced)",
+    "skills": [
+      "sql",
+      "joins",
+      "aggregation",
+      "window functions"
+    ],
+    "difficulty": "advanced",
+    "duration_weeks": 6,
+    "prerequisites": [
+      "Intermediate proficiency in sql",
+      "Intermediate proficiency in joins",
+      "Intermediate proficiency in aggregation",
+      "Intermediate proficiency in window functions"
+    ],
+    "outcomes": [
+      "Specialized/production-grade expertise in sql",
+      "Specialized/production-grade expertise in joins",
+      "Specialized/production-grade expertise in aggregation",
+      "Specialized/production-grade expertise in window functions"
+    ]
+  },
+  {
+    "course_id": "viz-tableau-beg-beg",
+    "title": "Data Visualization with Tableau (Beginner)",
+    "skills": [
+      "visualization",
+      "tableau",
+      "dashboards",
+      "storytelling"
+    ],
+    "difficulty": "beginner",
+    "duration_weeks": 3,
+    "prerequisites": [],
+    "outcomes": [
+      "Introductory understanding of visualization",
+      "Introductory understanding of tableau",
+      "Introductory understanding of dashboards",
+      "Introductory understanding of storytelling"
+    ]
+  },
+  {
+    "course_id": "viz-tableau-beg-int",
+    "title": "Data Visualization with Tableau (Intermediate)",
+    "skills": [
+      "visualization",
+      "tableau",
+      "dashboards",
+      "storytelling"
+    ],
+    "difficulty": "intermediate",
+    "duration_weeks": 3,
+    "prerequisites": [
+      "Basic knowledge of visualization",
+      "Basic knowledge of tableau",
+      "Basic knowledge of dashboards",
+      "Basic knowledge of storytelling"
+    ],
+    "outcomes": [
+      "Hands-on practice with visualization",
+      "Hands-on practice with tableau",
+      "Hands-on practice with dashboards",
+      "Hands-on practice with storytelling"
+    ]
+  },
+  {
+    "course_id": "viz-tableau-beg-adv",
+    "title": "Data Visualization with Tableau (Advanced)",
+    "skills": [
+      "visualization",
+      "tableau",
+      "dashboards",
+      "storytelling"
+    ],
+    "difficulty": "advanced",
+    "duration_weeks": 4,
+    "prerequisites": [
+      "Intermediate proficiency in visualization",
+      "Intermediate proficiency in tableau",
+      "Intermediate proficiency in dashboards",
+      "Intermediate proficiency in storytelling"
+    ],
+    "outcomes": [
+      "Specialized/production-grade expertise in visualization",
+      "Specialized/production-grade expertise in tableau",
+      "Specialized/production-grade expertise in dashboards",
+      "Specialized/production-grade expertise in storytelling"
+    ]
+  },
+  {
+    "course_id": "stats-for-analysts-int-beg",
+    "title": "Statistics for Data Analysts (Beginner)",
+    "skills": [
+      "statistics",
+      "hypothesis testing",
+      "probability",
+      "sampling"
+    ],
+    "difficulty": "beginner",
+    "duration_weeks": 3,
+    "prerequisites": [],
+    "outcomes": [
+      "Introductory understanding of statistics",
+      "Introductory understanding of hypothesis testing",
+      "Introductory understanding of probability",
+      "Introductory understanding of sampling"
+    ]
+  },
+  {
+    "course_id": "stats-for-analysts-int-int",
+    "title": "Statistics for Data Analysts (Intermediate)",
+    "skills": [
+      "statistics",
+      "hypothesis testing",
+      "probability",
+      "sampling"
+    ],
+    "difficulty": "intermediate",
+    "duration_weeks": 4,
+    "prerequisites": [
+      "Basic knowledge of statistics",
+      "Basic knowledge of hypothesis testing",
+      "Basic knowledge of probability",
+      "Basic knowledge of sampling"
+    ],
+    "outcomes": [
+      "Hands-on practice with statistics",
+      "Hands-on practice with hypothesis testing",
+      "Hands-on practice with probability",
+      "Hands-on practice with sampling"
+    ]
+  },
+  {
+    "course_id": "stats-for-analysts-int-adv",
+    "title": "Statistics for Data Analysts (Advanced)",
+    "skills": [
+      "statistics",
+      "hypothesis testing",
+      "probability",
+      "sampling"
+    ],
+    "difficulty": "advanced",
+    "duration_weeks": 6,
+    "prerequisites": [
+      "Intermediate proficiency in statistics",
+      "Intermediate proficiency in hypothesis testing",
+      "Intermediate proficiency in probability",
+      "Intermediate proficiency in sampling"
+    ],
+    "outcomes": [
+      "Specialized/production-grade expertise in statistics",
+      "Specialized/production-grade expertise in hypothesis testing",
+      "Specialized/production-grade expertise in probability",
+      "Specialized/production-grade expertise in sampling"
+    ]
+  },
+  {
+    "course_id": "sql-analytics-int-beg",
+    "title": "SQL for Analytics (Beginner)",
+    "skills": [
+      "sql",
+      "joins",
+      "aggregation",
+      "window functions"
+    ],
+    "difficulty": "beginner",
+    "duration_weeks": 3,
+    "prerequisites": [],
+    "outcomes": [
+      "Introductory understanding of sql",
+      "Introductory understanding of joins",
+      "Introductory understanding of aggregation",
+      "Introductory understanding of window functions"
+    ]
+  },
+  {
+    "course_id": "sql-analytics-int-int",
+    "title": "SQL for Analytics (Intermediate)",
+    "skills": [
+      "sql",
+      "joins",
+      "aggregation",
+      "window functions"
+    ],
+    "difficulty": "intermediate",
+    "duration_weeks": 4,
+    "prerequisites": [
+      "Basic knowledge of sql",
+      "Basic knowledge of joins",
+      "Basic knowledge of aggregation",
+      "Basic knowledge of window functions"
+    ],
+    "outcomes": [
+      "Hands-on practice with sql",
+      "Hands-on practice with joins",
+      "Hands-on practice with aggregation",
+      "Hands-on practice with window functions"
+    ]
+  },
+  {
+    "course_id": "sql-analytics-int-adv",
+    "title": "SQL for Analytics (Advanced)",
+    "skills": [
+      "sql",
+      "joins",
+      "aggregation",
+      "window functions"
+    ],
+    "difficulty": "advanced",
+    "duration_weeks": 6,
+    "prerequisites": [
+      "Intermediate proficiency in sql",
+      "Intermediate proficiency in joins",
+      "Intermediate proficiency in aggregation",
+      "Intermediate proficiency in window functions"
+    ],
+    "outcomes": [
+      "Specialized/production-grade expertise in sql",
+      "Specialized/production-grade expertise in joins",
+      "Specialized/production-grade expertise in aggregation",
+      "Specialized/production-grade expertise in window functions"
+    ]
+  },
+  {
+    "course_id": "viz-tableau-beg-beg",
+    "title": "Data Visualization with Tableau (Beginner)",
+    "skills": [
+      "visualization",
+      "tableau",
+      "dashboards",
+      "storytelling"
+    ],
+    "difficulty": "beginner",
+    "duration_weeks": 3,
+    "prerequisites": [],
+    "outcomes": [
+      "Introductory understanding of visualization",
+      "Introductory understanding of tableau",
+      "Introductory understanding of dashboards",
+      "Introductory understanding of storytelling"
+    ]
+  },
+  {
+    "course_id": "viz-tableau-beg-int",
+    "title": "Data Visualization with Tableau (Intermediate)",
+    "skills": [
+      "visualization",
+      "tableau",
+      "dashboards",
+      "storytelling"
+    ],
+    "difficulty": "intermediate",
+    "duration_weeks": 3,
+    "prerequisites": [
+      "Basic knowledge of visualization",
+      "Basic knowledge of tableau",
+      "Basic knowledge of dashboards",
+      "Basic knowledge of storytelling"
+    ],
+    "outcomes": [
+      "Hands-on practice with visualization",
+      "Hands-on practice with tableau",
+      "Hands-on practice with dashboards",
+      "Hands-on practice with storytelling"
+    ]
+  },
+  {
+    "course_id": "viz-tableau-beg-adv",
+    "title": "Data Visualization with Tableau (Advanced)",
+    "skills": [
+      "visualization",
+      "tableau",
+      "dashboards",
+      "storytelling"
+    ],
+    "difficulty": "advanced",
+    "duration_weeks": 4,
+    "prerequisites": [
+      "Intermediate proficiency in visualization",
+      "Intermediate proficiency in tableau",
+      "Intermediate proficiency in dashboards",
+      "Intermediate proficiency in storytelling"
+    ],
+    "outcomes": [
+      "Specialized/production-grade expertise in visualization",
+      "Specialized/production-grade expertise in tableau",
+      "Specialized/production-grade expertise in dashboards",
+      "Specialized/production-grade expertise in storytelling"
+    ]
+  }
+
+]
+

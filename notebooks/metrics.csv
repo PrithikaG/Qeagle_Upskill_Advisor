@@ -1,0 +1,3 @@
+persona,latency_p95_ms,error_rate,coverage_pct,diversity,plan_ids
+QA_to_SDET_beginner,892,0.0000,75,1.00,qa-automation-beg|typescript-intro-beg|nodejs-basics-beg
+ManualQA_to_GenAIEngineer_intermediate,892,0.0000,75,1.00,prompt-engineering-beg|qa-automation-beg|react-advanced-beg

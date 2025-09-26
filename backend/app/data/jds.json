@@ -1,0 +1,93 @@
+[
+  {
+    "role": "Frontend Developer",
+    "skills_required": [
+      { "skill": "html", "level": 1 },
+      { "skill": "css", "level": 1 },
+      { "skill": "javascript", "level": 2 },
+      { "skill": "react", "level": 2 }
+    ]
+  },
+  {
+    "role": "Backend Developer",
+    "skills_required": [
+      { "skill": "nodejs", "level": 2 },
+      { "skill": "rest", "level": 2 },
+      { "skill": "sql", "level": 2 },
+      { "skill": "authentication", "level": 2 }
+    ]
+  },
+  {
+    "role": "Full Stack Engineer",
+    "skills_required": [
+      { "skill": "react", "level": 2 },
+      { "skill": "nodejs", "level": 2 },
+      { "skill": "sql", "level": 2 },
+      { "skill": "ci", "level": 2 }
+    ]
+  },
+  {
+    "role": "Mobile Developer",
+    "skills_required": [
+      { "skill": "android", "level": 2 },
+      { "skill": "kotlin", "level": 2 },
+      { "skill": "ios", "level": 2 },
+      { "skill": "swift", "level": 2 }
+    ]
+  },
+  {
+  "role": "Data Analyst",
+  "skills_required": [
+    { "skill": "sql", "level": 2 },
+    { "skill": "pandas", "level": 2 },
+    { "skill": "visualization", "level": 2 },
+    { "skill": "statistics", "level": 2 }
+  ],
+  "nice_to_have": ["tableau", "bigquery", "python"]
+  },
+  {
+    "role": "Data Engineer",
+    "skills_required": [
+      { "skill": "python", "level": 2 },
+      { "skill": "etl", "level": 2 },
+      { "skill": "airflow", "level": 2 },
+      { "skill": "warehousing", "level": 2 }
+    ]
+  },
+  {
+    "role": "Machine Learning Engineer",
+    "skills_required": [
+      { "skill": "ml", "level": 2 },
+      { "skill": "python", "level": 2 },
+      { "skill": "pytorch", "level": 2 },
+      { "skill": "evaluation", "level": 2 }
+    ]
+  },
+  {
+    "role": "DevOps Engineer",
+    "skills_required": [
+      { "skill": "ci", "level": 2 },
+      { "skill": "docker", "level": 2 },
+      { "skill": "kubernetes", "level": 2 },
+      { "skill": "observability", "level": 2 }
+    ]
+  },
+  {
+    "role": "SDET",
+    "skills_required": [
+      { "skill": "api testing", "level": 2 },
+      { "skill": "pytest", "level": 2 },
+      { "skill": "selenium", "level": 2 },
+      { "skill": "ci", "level": 2 }
+    ]
+  },
+  {
+    "role": "Generative AI Engineer",
+    "skills_required": [
+      { "skill": "prompting", "level": 2 },
+      { "skill": "rag", "level": 2 },
+      { "skill": "evaluation", "level": 2 },
+      { "skill": "llmops", "level": 2 }
+    ]
+  }
+]

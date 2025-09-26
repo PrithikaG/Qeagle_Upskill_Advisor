@@ -1,0 +1,16 @@
+# Node / React
+frontend/node_modules/
+frontend/.env
+# Python / FastAPI
+backend/.venv/
+__pycache__/
+*.pyc
+backend/.env
+# OS/IDE
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+# Logs & misc
+*.log
+.env
