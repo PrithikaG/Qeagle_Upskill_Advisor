@@ -166,7 +166,7 @@ Outputs:
 
 ## 🖼️ Architecture
 
-![Architecture](docs/architecture.png)
+![Architecture](upskill_architecture_clear.png)
 
 ---
 
