@@ -8,16 +8,16 @@ It integrates **FastAPI (backend)**, **React (frontend)**, and **MongoDB Atlas**
 
 ## 🌟 Features
 
-* 🔍 **Hybrid Retrieval**: BM25 + Vector DB + Cross Encoder reranker
-* 📚 **Personalized Plans**: Gap analysis against target role JD
-* 🕒 **Course Timeline**: Structured roadmap with weekly schedule
-* 📊 **Evaluation Metrics**: Coverage %, Diversity, Latency tracking
-* 📝 **PDF Export**: Downloadable personalized learning plan
-* 🌐 **Frontend Dashboard**: Interactive UI with charts & gauges
+*  **Hybrid Retrieval**: BM25 + Vector DB + Cross Encoder reranker
+*  **Personalized Plans**: Gap analysis against target role JD
+*  **Course Timeline**: Structured roadmap with weekly schedule
+*  **Evaluation Metrics**: Coverage %, Diversity, Latency tracking
+*  **PDF Export**: Downloadable personalized learning plan
+*  **Frontend Dashboard**: Interactive UI with charts & gauges
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 * **Frontend**: React.js + Chart.js
 * **Backend**: FastAPI (Python 3.10+)
@@ -27,24 +27,34 @@ It integrates **FastAPI (backend)**, **React (frontend)**, and **MongoDB Atlas**
 
 ---
 
-## 📂 Project Structure
+##  Project Structure
 
 ```
 upskill_advisor/
-├── backend/             # FastAPI backend
-│   ├── app/             # Core backend logic
-│   ├── scripts/         # Seed & utility scripts
-│   └── Dockerfile
-├── frontend/            # React frontend
-│   └── Dockerfile
-├── notebooks/           # Evaluation runner & metrics
-├── docker-compose.yml   # Multi-service config
-├── README.md            # Documentation
+│── backend/
+│ ├── app/
+│ │ ├── api/ # FastAPI routes
+│ │ ├── advisor.py # Main advising logic
+│ │ ├── retrieval.py # Hybrid retrieval (BM25 + Vectors)
+│ │ ├── store.py # Load courses & JDs
+│ │ ├── data/ # Dataset (courses.json, jds.json)
+│ ├── scripts/
+│ │ ├── seed_mongo.py # Seed MongoDB with courses
+│ ├── Dockerfile
+│── frontend/
+│ ├── src/ # React components
+│ ├── package.json
+│ ├── Dockerfile
+│── notebooks/
+│ ├── eval_runner.py # Evaluation script
+│ ├── metrics.csv # Output metrics
+│── docker-compose.yml
+│── README.md
 ```
 
 ---
 
-## ⚙️ Setup Instructions
+##  Setup Instructions
 
 ### 1. Clone Repository
 
@@ -57,7 +67,7 @@ cd upskill_advisor
 
 ### 2. Environment Variables
 
-👉 We don’t commit `.env` (it contains secrets).
+ We don’t commit `.env` (it contains secrets).
 Instead, use `example.env`.
 
 #### Create `.env` file
@@ -82,7 +92,6 @@ EMBED_MODEL=sentence-transformers/all-MiniLM-L6-v2
 CROSS_ENCODER=cross-encoder/ms-marco-MiniLM-L-6-v2
 ```
 
-✅ Commit only `example.env`, never your `.env`.
 
 ---
 
@@ -149,7 +158,7 @@ npm run dev
 
 ---
 
-## 📊 Evaluation
+## Evaluation
 
 Run evaluation personas to check coverage & diversity:
 
@@ -164,26 +173,15 @@ Outputs:
 * `eval_requests.jsonl` → Detailed logs
 
 
-## 🖼️ Architecture
+## Architecture
 
 ![Architecture](upskill_architecture_clear.png)
 
 ---
 
-## ✨ Future Improvements
+##  Future Improvements
 
 * Add role-specific **LLM fine-tuned suggestions**
 * Integrate **authentication system** for users
 * Enable **multi-language support**
-* Add **CI/CD pipelines** with GitHub Actions
 
----
-
-## 👤 Author
-
-**Mark (CIT - AI & DS)**
-B.Tech Final Year | Projects in AI/ML, Full Stack, and Cloud
-
----
-
-Would you like me to also **generate the backend/example.env file** for you (ready to commit) so you just copy-paste it, or keep it only in the README?
