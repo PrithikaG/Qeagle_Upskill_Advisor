@@ -185,9 +185,6 @@ Outputs:
 * Integrate **authentication system** for users
 * Enable **multi-language support**
 
-## Output
 
-![output](output/Screenshot 2025-09-25 105227.png)
-![output](output/Screenshot 2025-09-25 105238.png)
 
 
