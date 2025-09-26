@@ -185,12 +185,11 @@ Outputs:
 * Integrate **authentication system** for users
 * Enable **multi-language support**
 
-## Output
+## 📸 Project Output Screenshots
 
-![Output](output/Screenshot_2025-09-25_105238.png) 
-![Output](output/Screenshot_2025-09-25_105227.png)
+Here are some example outputs from the application:
 
----
+### Frontend
+![Plan Generation](output/Screenshot%202025-09-25%20105227.png)
 
-
-
+![API Response](output/Screenshot%202025-09-25%20105238.png)
